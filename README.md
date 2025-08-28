@@ -1,4 +1,8 @@
 # Python Projects Showcase
+Welcome to my Python projects showcase!</br>
+This repository serves as a central hub to various projects that I have written in Python - ranging from beginner-friendly scripts to more advanced applications.</br>
+</br>
+Each project is in its own repository (linked below):
 - [AI Nickname Forge](https://github.com/neilchan1/AI_Nickname_Forge)
 - [Caesar Cipher](https://github.com/neilchan1/Caesar_Cipher)
 - [Calculator](https://github.com/neilchan1/Calculator)
