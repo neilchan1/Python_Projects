@@ -1,2 +1,10 @@
-# Python_Projects
-Python Projects
+# Python Projects Showcase
+- [AI Nickname Forge](https://github.com/neilchan1/AI_Nickname_Forge)
+- [Caesar Cipher](https://github.com/neilchan1/Caesar_Cipher)
+- [Calculator](https://github.com/neilchan1/Calculator)
+- [Hangman Game](https://github.com/neilchan1/Hangman_Game)
+- [Password Generator](https://github.com/neilchan1/Password_Generator)
+- [Rock, Paper, Scissors Game](https://github.com/neilchan1/Rock_Paper_Scissors_Game)
+- [Secret Auction](https://github.com/neilchan1/Secret_Auction)
+- [Tip Calculator](https://github.com/neilchan1/Tip_Calculator)
+- [Treasure Hunter Game](https://github.com/neilchan1/Treasure_Hunter_Game)
